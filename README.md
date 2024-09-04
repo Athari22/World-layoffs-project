@@ -24,7 +24,9 @@ The dataset contains information on layoffs across different companies worldwide
 1. Removed duplicates and irrelevant entries.
 2. Standardized data across various columns.
 3. Ensured consistency in date formats and numeric fields.
-4. Data Exploration (Tableau) After cleaning the dataset, the following analyses were conducted using Tableau:
+
+### Data Exploration (Tableau)
+After cleaning the dataset, the following analyses were conducted using Tableau:
 
 ### Total Layoffs by Industry
 
