@@ -35,23 +35,23 @@ After cleaning the dataset, the following analyses were conducted using Tableau:
 - **Objective**: Identify which industries have experienced the highest number of layoffs.
 - **Insight**: Helps in understanding the sectors most affected by economic downturns or organizational changes.
 
-### Layoff Trends Over Time
+#### Layoff Trends Over Time
 
 - **Objective**: Analyze how layoffs have trended over time on a global scale.
 - **Insight**: Provides a temporal perspective on how global events, such as economic crises, impact layoffs.
 
-### Layoff Distribution by Country
+#### Layoff Distribution by Country
 
 - **Objective**: Determine which countries have been most affected by layoffs.
 - **Insight**: Offers a geographical view of layoff patterns, highlighting regions with significant job losses.
 
-### Impact of Company Stage on Layoffs
+#### Impact of Company Stage on Layoffs
 
 - **Objective**: Assess whether startups, growth-stage companies, or mature companies are more likely to lay off employees.
 - **Insight**: Reveals how the company’s life cycle stage influences its layoff decisions.
 
 
-###Average Layoff Percentage by Industry
+#### Average Layoff Percentage by Industry
 
 - **Objective**: Calculate the average percentage of employees laid off across different industries.
 - **Insight**: Provides a relative measure of the impact on employees within each industry, offering a deeper understanding of the severity of layoffs in different sectors.
