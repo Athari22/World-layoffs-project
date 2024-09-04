@@ -7,12 +7,12 @@ This project aims to analyze global layoff trends across various industries and 
 ### Dataset Overview
 The dataset contains information on layoffs across different companies worldwide, including details such as the number of employees laid off, the industry, location, and the stage of the company. Key columns in the dataset include:
 
-**company**: Name of the company where layoffs occurred.
-**location**: Location of the company.
+ 1 **company**: Name of the company where layoffs occurred.
+ 2 **location**: Location of the company.
 **industry**: Industry category of the company.
 **total_laid_off**: Total number of employees laid off.
 **percentage_laid_off**: Percentage of the workforce laid off.
-**date: Date when the layoffs occurred.
+**date**: Date when the layoffs occurred.
 **stage**: The stage of the company (e.g., startup, growth, mature).
 **country**: The country where the layoffs occurred.
 **funds_raised_millions**: Amount of funds raised by the company (in millions).
