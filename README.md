@@ -30,7 +30,7 @@ The dataset contains information on layoffs across different companies worldwide
 ### Data Exploration (Tableau)
 After cleaning the dataset, the following analyses were conducted using Tableau:
 
-### Total Layoffs by Industry
+#### Total Layoffs by Industry
 
 - **Objective**: Identify which industries have experienced the highest number of layoffs.
 - **Insight**: Helps in understanding the sectors most affected by economic downturns or organizational changes.
